@@ -15,16 +15,43 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="File-Operations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\AVL_Tree.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="bst-file-system.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <ClInclude Include="File-Operations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\AVLNode.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\AVL_Tree.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\Bad_Structure.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\Binary_Search_Tree.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\Binary_Tree.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\BST_With_Rotate.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\BTNode.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\kc.umkc.edu\kc-users\home\k\ktk32n\Desktop\AVL_Imports\Random.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
