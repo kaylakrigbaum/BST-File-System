@@ -8,6 +8,6 @@
 using namespace std;
 
 int main() {
-
+	cout << "Menu: 1. add_folder"
 	return 0;
 }

@@ -9,26 +9,26 @@
 
 using namespace std;
 
-void add_folder(string path, string folder_name) {
+void folder::add_folder(string path, string folder_name) {
 
 }
 
-void delete_folder(string path, string folder_name) {
+void folder::delete_folder(string path, string folder_name) {
 
 }
 
-void add_file(string path, string file_name, int size) {
+void folder::add_file(string path, string file_name, int size) {
 
 }
 
-File get_file(string path, string file_name) {
+file folder::get_file(string path, string file_name) {
 
 }
 
-list<File> get_files(string path, string file_name) {
+list<file> folder::get_files(string path, string file_name) {
 
 }
 
-void delete_file(string path, string file_name) {
+void folder::delete_file(string path, string file_name) {
 
 }
